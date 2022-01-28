@@ -1,0 +1,13 @@
+.article {
+    width: 50%;
+}
+
+.article-title-image {
+    display: flex;
+    justify-content: space-between;
+}
+
+.article-image img{
+    width: 30%;
+    height: auto;
+}
